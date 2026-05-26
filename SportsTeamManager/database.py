@@ -12,7 +12,7 @@ DB_CONFIG = {
     "host":     "localhost",
     "port":     3306,
     "user":     "root",
-    "password": "3524",
+    "password": "",
     "database": "sports_manager",
 }
 
